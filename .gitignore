@@ -1,0 +1,10 @@
+.idea*
+.settings*
+*.iml
+.meteor*
+.cache*
+.classpath*
+.project*
+target*
+logs*
+bin*
